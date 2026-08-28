@@ -54,15 +54,6 @@ pip install -r requirements.txt
 jupyter notebook trabalho3tep.ipynb
 ```
 
-## Estrutura
-
-```
-.
-├── trabalho3tep.ipynb   # Notebook com todo o projeto (dados, modelos, avaliacao e grafico)
-├── requirements.txt
-└── README.md
-```
-
 ## Autor
 
 Tiago Luterbach de Medeiros
